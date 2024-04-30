@@ -40,7 +40,7 @@ python main.py
 
 ## Dataset
 
-This YOLOv8 model was trained using this dataset [here]('https://github.com/ciber-lab/pictor-yolo') .This dataset was chosen because it represents real-time detection of construction-related objects (e.g.,building, equipment, worker).
+This YOLOv8 model was trained using this dataset [here](https://github.com/ciber-lab/pictor-yolo) .This dataset was chosen because it represents real-time detection of construction-related objects (e.g.,building, equipment, worker).
 
 ## Model Used
 
@@ -77,6 +77,6 @@ A Yolov8  Model was first inferenced to get worker, hat, and vest bounding box, 
 
 ## Inference Result
 
-The inferenced video result can be found [GoogleDrive]('https://drive.google.com/drive/folders/1iiCLDyUZfwLlIklHdQvoRAqSS637kRyJ?usp=sharing')
+The inferenced video result can be found [GoogleDrive](https://drive.google.com/drive/folders/1iiCLDyUZfwLlIklHdQvoRAqSS637kRyJ?usp=sharing)
 ![image1](./assets/inference.png)
 
