@@ -77,6 +77,6 @@ A Yolov8  Model was first inferenced to get worker, hat, and vest bounding box, 
 
 ## Inference Result
 
-The inferenced video result can be found (GoogleDrive)['https://drive.google.com/drive/folders/1iiCLDyUZfwLlIklHdQvoRAqSS637kRyJ?usp=sharing']
-![image1](assets\inference.png)
+The inferenced video result can be found [GoogleDrive]('https://drive.google.com/drive/folders/1iiCLDyUZfwLlIklHdQvoRAqSS637kRyJ?usp=sharing')
+![image1](./assets/inference.png)
 
