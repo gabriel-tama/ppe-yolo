@@ -63,7 +63,7 @@ This YOLOv8 model was trained using this dataset [here](https://github.com/ciber
 
 A Yolov8  Model was first inferenced to get worker, hat, and vest bounding box, then I separated the worker, and (hat,vest), calculate the intersection value betwen worker and each equipment found in the picture. The biggest intersection value between worker and equipment found means that it equipments belongs to the worker. Then, I create the bounding box for the person and labelled with W (Worker),WH (Worker-Helmet),WV (Worker-Vest), and WHV (Worker-Helmet-Vest).
 
-![image3](./assets/inference.png)
+![image3](./assets/intersection.png)
 
 
 ## Training & Evaluation Result
